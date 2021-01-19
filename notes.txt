@@ -1,1 +1,0 @@
-Best practices of Git include committing often, clearly describing changes, and focusing on one issue in one commit.
